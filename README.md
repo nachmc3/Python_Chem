@@ -1,2 +1,2 @@
 # Python_Chem
-Code source for my course: Python for Chemistry students
+Code source of my course: Python for Chemistry students
